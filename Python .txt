@@ -1,0 +1,12 @@
+---------------------------------------------------
+OOP-Object Oriented programming
+---------------------------------------------------
+
+Intro->
+-->Classes and Objects
+-->Principles of OOP
+-->Python inheritance
+-->Multple inheritance
+-->abstraction and polymorphism
+-->Operator overloading
+----------------------------------------------------
